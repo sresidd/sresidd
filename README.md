@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Inion VR Medical Simulations and TacTix XR, using Unity and VR to create immersive, interactive experiences.<br>👯 I’m looking to collaborate on VR/AR projects, multiplayer games, or anything related to game development and graphics programming.<br>🤝 I’m looking for help with optimizing OpenGL code for high-performance rendering and complex graphics techniques.<br>🌱 I’m currently learning OpenGL and advanced Graphics Programming, exploring shaders and real-time rendering.<br>💬 Ask me about game development, VR, Unity, multiplayer systems, or game mechanics design and development.<br>
+🔭 I’m currently working on MersivX and Blackbox Technologies, using Unity to create immersive, interactive experiences.<br>👯 I’m looking to collaborate on VR/AR projects, multiplayer games, or anything related to game development and graphics programming.<br>🤝 I’m looking for help with optimizing OpenGL code for high-performance rendering and complex graphics techniques.<br>🌱 I’m currently learning OpenGL and advanced Graphics Programming, exploring shaders and real-time rendering.<br>💬 Ask me about game development, VR, Unity, multiplayer systems, or game mechanics design and development.<br>
 
 
 ## 🌐 Socials:
